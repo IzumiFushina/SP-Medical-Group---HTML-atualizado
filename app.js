@@ -3,7 +3,7 @@ const app = express();
 const port = 8019; // Porta em que o servidor será executado
 // Rota para exibir a página index.html
 app.get('/', (req, res) => {
-res.sendFile(__dirname + '/home.html');
+res.sendFile(__dirname + '/index.html');
 });
 
 app.use(express.static(__dirname + '/'));

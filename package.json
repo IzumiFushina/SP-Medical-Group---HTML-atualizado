@@ -1,12 +1,16 @@
 {
   "name": "sp-medical-group---html-atualizado",
   "version": "1.0.0",
-  "description": "",
+  "description": "![image](https://user-images.githubusercontent.com/125681788/221176101-bcf80585-7aa2-4103-8061-af06537fca61.png)",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
 }

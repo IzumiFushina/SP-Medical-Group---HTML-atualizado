@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="login.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+  <div>
+    <ul>
+      <a href="http://127.0.0.1:5500/index.html">
+        <img src="casa.png" class="casa">
+      </a>
+    </ul>
+    <img class="logo-menor" src="logo_menor.png">
+    <span class="e311_1252">SP Medical Group</span>
+  </div>
+  <div class="logo">
+    <img src="logo_maior.png" class="logoimg">
+  </div>
+
+  <div id="login" class="submenu">
+
+    <form class="formulario">
+
+      <h1>Login</h1>
+      <input type="text" placeholder="Seu email" id="email" >
+      <br>
+      <input type="password" placeholder="Sua senha" id="senha"> <br>
+      <br>
+      <input type="checkbox" name="manter logado" id="manter logado" value="" />
+      <label for="manter logado">Manter me logado</label>
+      <br>
+      <br>
+      <input type="submit" onclick="logar(); return false" class="log" value="Logar">
+
+    </form>
+
+    <a class="cad" href="Cadastro.html">Cadastre-se</a>
+
+
+    <script>
+
+
+      function logar() {
+
+        var login = document.getElementById('email').value;
+        var senha = document.getElementById('senha').value;
+
+        if (login == "edusenaisp@gmail.com" && senha == "pipi") {
+          alert('Sucesso');
+          location.href = "Agende Sua Consulta.html";
+        } else {
+          alert('Usuario ou senha incorretos');
+        }
+
+      }
+
+
+    </script>
+
+  </div>
+  </div>
+</body>
+
+</html>

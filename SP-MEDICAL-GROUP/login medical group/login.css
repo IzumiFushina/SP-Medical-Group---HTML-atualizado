@@ -1,0 +1,110 @@
+html {
+  height: 100%;
+  
+}
+
+* 
+body {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(0deg, rgba(255, 255, 255, 1) 20%, rgba(0, 108, 169, 1) 100%);
+}
+
+.logo {
+text-align: center;
+}
+.logoimg{
+  display: inline-block;
+}
+
+.e311_1252 {
+  color: rgba(0, 0, 0, 0.550000011920929);
+  width: 193.5px;
+  height: 24.749998092651367px;
+  font-family: Akshar;
+  text-align: left;
+  font-size: 18px;
+  letter-spacing: 0;
+  justify-content: right;
+  position: absolute;
+  top: 5%;
+  left: 80px;
+}
+
+#login {
+  text-align: center;
+  left: 45%;
+  font-family: Akshar;
+}
+
+form {
+  text-align: center;
+  width: 100%;
+  
+}
+
+.submenu {
+  text-align: center;
+}
+
+  .formulario {
+    text-align: center;
+    width: 100%;
+  }
+
+
+
+#email {
+  width: 40%;
+  height: 30px;
+margin-bottom: 20px;
+border-radius: 20px;
+}
+
+#senha {
+  width: 40%;
+  height: 30px;
+  border-radius: 20px;
+
+}
+
+
+.cp {
+  border-radius: 20px;
+  width: 650px;
+  height: 30px;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
+
+
+
+
+
+
+.logo-maior {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+} 
+.casa {
+  width: 50px;
+  height: 50px;
+  right: 90px;
+  position: absolute;
+  margin-top: 30px;
+  
+}
+
+.log {
+  border-radius: 30px;
+  width: 100px;
+  background-color: rgb(132, 204, 238);
+  border: 1px solid #000;
+
+}
+
+.cad {
+  font-size: 17px;
+  
+}

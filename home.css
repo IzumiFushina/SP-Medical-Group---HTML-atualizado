@@ -109,20 +109,24 @@ div.v48_30 {
 
 div.v48_35 {
   width: 172px;
-  height: 135px;
+  height: 140px;
   background: rgba(0, 108, 169, 0.20000000298023224);
   opacity: 1;
   position: absolute;
-  top: 154px;
+  top: 151px;
   left: 960px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   overflow: hidden;
+  align-items: center;
 }
 
 .v48_28 {
+  margin-top: -10%;
+  margin-left: 10%;
+  display: flex;
   width: 154px;
   color: rgba(0, 0, 0, 1);
   top: 159px;
@@ -134,6 +138,7 @@ div.v48_35 {
 }
 
 .imgf {
+  display: flex;
   height: 70px;
   width: 80px;
   left: 25%;

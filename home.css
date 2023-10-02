@@ -90,7 +90,10 @@ div.v48_30 {
   top: 151px;
   left: 692px;
   border-radius: 10px;
-
+  transition: background-color 0.5s;
+}
+div.v48_30:hover {
+  background-color: rgba(0, 107, 169, 0.458);
 }
 .v48_26 {
   display: flex;
@@ -108,7 +111,7 @@ div.v48_30 {
   display: flex;
   height: 70px;
   width: 80px;
-  margin-left: 10%;
+  margin-left: 11%;
 }
 
 div.v48_35 {
@@ -125,8 +128,11 @@ div.v48_35 {
   border-bottom-right-radius: 10px;
   overflow: hidden;
   align-items: center;
+  transition: background-color 0.5s;
 }
-
+div.v48_35:hover {
+  background-color: rgba(0, 107, 169, 0.458);
+}
 .v48_28 {
   margin-top: -10%;
   margin-left: 10.5%;
@@ -141,7 +147,6 @@ div.v48_35 {
   font-size: 30px;
   opacity: 1;
 }
-
 .imgf {
   display: flex;
   margin-left: 20%;
@@ -165,8 +170,11 @@ div.v48_34 {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   overflow: hidden;
+  transition: background-color 0.5s;
 }
-
+div.v48_34:hover {
+  background-color: rgba(0, 107, 169, 0.458);
+}
 .v48_29 {
   width: 155px;
   color: rgba(0, 0, 0, 1);
@@ -179,13 +187,12 @@ div.v48_34 {
   font-size: 32px;
   opacity: 1;
 }
-
 .onco {
   display: flex;
   height: 70px;
   width: 80px;
-  margin-left: 22%;
-  margin-top: -14%;
+  margin-left: 22.5%;
+  margin-top: -18%;
 }
 
 div.v90_10 {
@@ -195,17 +202,21 @@ div.v90_10 {
   opacity: 1;
   position: absolute;
   top: 348px;
-  left: 688px;
+  left: 692px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   overflow: hidden;
+  transition: background-color 0.5s;
 }
-
+div.v90_10:hover {
+  background-color: rgba(0, 107, 169, 0.458);
+}
 .v90_13 {
   display: flex;
-  margin-top: ;
+  margin-top: 2%;
+  margin-left: 9%;
   width: 155px;
   color: rgba(0, 0, 0, 1);
   top: 348px;
@@ -215,21 +226,82 @@ div.v90_10 {
   font-size: 32px;
   opacity: 1;
 }
-
 .imgg {
-  position: absolute;
+  display: flex;
   height: 70px;
   width: 80px;
-  left: 20%;
-  top: 100%;
+  margin-top: -18%;
+  margin-left: 22%;
 }
 
-.imgh {
+div.v90_11 {
+  width: 172px;
+  height: 140px;
+  background: rgba(0, 108, 169, 0.20000000298023224);
+  opacity: 1;
   position: absolute;
+  top: 348px;
+  left: 960px;
+  border-radius: 10px;
+  transition: background-color 0.5s;
+}
+div.v90_11:hover {
+  background-color: rgba(0, 107, 169, 0.458);
+}
+.v90_14 {
+  width: 175px;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  margin-top: 2%;
+  margin-left: 2.75%;
+  font-family: Akshar;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+}
+.imgh {
+  display: flex;
   height: 70px;
   width: 80px;
-  left: 20%;
-  top: 100%;
+  margin-top: -16%;
+  margin-left: 25.5%;
+}
+
+div.v90_12 {
+  width: 172px;
+  height: 140px;
+  background: rgba(0, 108, 169, 0.20000000298023224);
+  opacity: 1;
+  position: absolute;
+  top: 348px;
+  left: 1228px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+  transition: background-color 0.5s;
+}
+div.v90_12:hover {
+  background-color: rgba(0, 107, 169, 0.458);
+}
+.v90_15 {
+  width: 181px;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  font-family: Akshar;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  margin-left: 2.75%;
+  margin-top: 2%;
+}
+.coracao {
+  display: flex;
+  margin-top: -16%;
+  margin-left: 26%;
+  height: 70px;
+  width: 80px;
 }
 
 .imgi {
@@ -240,14 +312,7 @@ div.v90_10 {
   margin-left: 40px;
 }
 
-.coracao {
-  display: flex;
-  margin-left: 20%;
-  height: 70px;
-  width: 80px;
-  left: 25%;
-  top: 90%;
-}
+
 .imgj {
   height: 50px;
   width: 50px;
@@ -355,11 +420,13 @@ span.login {
 span.texto1 {
   display: flex;
   width: 328px;
-  color: rgba(0, 0, 0, 1);
+  color: black;
   font-family: Akshar;
   font-weight: Regular;
   font-size: 64px;
   opacity: 1;
+  margin-top: 8%;
+  margin-left: 5%;
 }
 
 span.texto2 {
@@ -370,40 +437,44 @@ span.texto2 {
   font-weight: Regular;
   font-size: 32px;
   opacity: 1;
+  margin-top: -18%;
+  margin-left: 5.1%;
 }
 
 .topicos {
   display: flex;
-  margin-top: 40%;
+  margin-top: 10%;
   margin-left: 50px;
+  width: 750px;
+  height: 1000px;
 }
-
-
-
-div.v90_11 {
-  width: 172px;
-  height: 140px;
-  background: rgba(0, 108, 169, 0.20000000298023224);
-  opacity: 1;
-  position: absolute;
-  top: 348px;
-  left: 960px;
-  border-radius: 10px;
+.Encontre {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  display: flex;
+  margin-top: 0%;
 }
-
-div.v90_12 {
-  width: 172px;
-  height: 140px;
-  background: rgba(0, 108, 169, 0.20000000298023224);
-  opacity: 1;
-  position: absolute;
-  top: 348px;
-  left: 1240px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  overflow: hidden;
+.AgendeA {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  display: flex;
+  margin-top: 10%;
+}
+.AgendeB {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  display: flex;
+  margin-top: 10%;
+}
+.Resultado {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  display: flex;
+  margin-top: 10%;
 }
 
 span.v48_3 {
@@ -415,30 +486,6 @@ span.v48_3 {
   font-family: Akshar;
   font-weight: Regular;
   font-size: 24px;
-  opacity: 1;
-}
-
-.v90_14 {
-  width: 175px;
-  color: rgba(0, 0, 0, 1);
-  position: absolute;
-  top: 350px;
-  left: 969px;
-  font-family: Akshar;
-  font-weight: Regular;
-  font-size: 32px;
-  opacity: 1;
-}
-
-.v90_15 {
-  width: 181px;
-  color: rgba(0, 0, 0, 1);
-  position: absolute;
-  top: 349px;
-  left: 1247px;
-  font-family: Akshar;
-  font-weight: Regular;
-  font-size: 32px;
   opacity: 1;
 }
 
@@ -512,43 +559,4 @@ div.i474_222_48_15 {
   position: absolute;
   width: 100px;
   top: 12%;
-}
-
-.Encontre {
-  color: #000000;
-  font-size: 28px;
-  font-family: Georgia;
-  position: absolute;
-  left: 100px;
-  top: 56.65%;
-}
-
-.AgendeA {
-  color: #000000;
-  font-size: 28px;
-  font-family: Georgia;
-  position: absolute;
-  top: 61.75%;
-  left: 100px;
-  margin-top: 10px;
-}
-
-.AgendeB {
-  color: #000000;
-  font-size: 28px;
-  font-family: Georgia;
-  position: absolute;
-  top: 67.75%;
-  left: 100px;
-  margin-top: 10px;
-}
-
-.Resultado {
-  color: #000000;
-  font-size: 28px;
-  font-family: Georgia;
-  position: absolute;
-  top: 73.5%;
-  left: 100px;
-  margin-top: 10px;
 }

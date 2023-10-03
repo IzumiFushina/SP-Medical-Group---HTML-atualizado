@@ -305,60 +305,33 @@ div.v90_12:hover {
 }
 
 .imgi {
-  height: 50px;
+  height: 53px;
   width: 50px;
   display: flex;
-  margin-top: 40%;
+  margin-top: -22%;
   margin-left: 40px;
 }
 
 
 .imgj {
-  height: 50px;
+  height: 55px;
   width: 50px;
   margin-left: 40px;
+  margin-top: -17.5%;
 }
 
 .imgk {
   height: 50px;
   width: 50px;
   margin-left: 40px;
+  margin-top: -13%;
 }
 
 .imgl {
   height: 50px;
   width: 50px;
   margin-left: 40px;
-}
-
-.imgm {
-  position: absolute;
-  width: 112.5px;
-  height: 112.5px;
-
-}
-
-.imgn {
-  position: absolute;
-  width: 112.5px;
-  height: 112.5px;
-  top: 60%;
-}
-
-.imgo {
-  position: absolute;
-  left: 80%;
-  top: 18%;
-  height: 30px;
-  width: 30px;
-}
-
-.imgp {
-  position: absolute;
-  left: 90%;
-  top: 75%;
-  height: 30px;
-  width: 30px;
+  margin-top: -9%;
 }
 
 .imgq {
@@ -366,13 +339,58 @@ div.v90_12:hover {
 
 }
 
-.imgms {
-  position: absolute;
-  height: 315px;
-  width: 750px;
-  left: 33.5%;
-  top: 55.5%;
+.imgm {
+  display: flex;
+  width: 112.5px;
+  height: 112.5px;
+  margin-top: -20%;
+  margin-left: 50%;
+
 }
+
+.imgn {
+  display: flex;
+  width: 112.5px;
+  height: 112.5px;
+  margin-top: -10%;
+  margin-left: 50%;
+}
+
+.imgo {
+  display: flex;
+  height: 30px;
+  width: 30px;
+  margin-top: -95px;
+  margin-left: 1435px;
+}
+
+.imgp {
+  display: flex;
+  height: 30px;
+  width: 30px;
+  margin-top: -300px;
+  margin-left: 1350px;
+}
+.e310_179 {
+  font-family: Akshar;
+  color: #000;
+  font-size: 24px;
+  display: flex;
+  margin-left: 60%;
+  margin-top: 20px;
+}
+.ei474_222_90_43 {
+  color: rgba(0, 0, 0, 1);
+  width: 548px;
+  height: 101px;
+  font-family: Akshar;
+  font-size: 24px;
+  letter-spacing: 0;
+  display: flex;
+  margin-left: 60%;
+  margin-top: 3%;
+}
+
 
 .doe {
   position: absolute;
@@ -437,16 +455,15 @@ span.texto2 {
   font-weight: Regular;
   font-size: 32px;
   opacity: 1;
-  margin-top: -18%;
+  margin-top: -1%;
   margin-left: 5.1%;
 }
 
 .topicos {
   display: flex;
-  margin-top: 10%;
-  margin-left: 50px;
+  margin-top: -29.75%;
+  margin-left: 7%;
   width: 750px;
-  height: 1000px;
 }
 .Encontre {
   color: #000000;
@@ -455,21 +472,13 @@ span.texto2 {
   display: flex;
   margin-top: 0%;
 }
-.AgendeA {
-  color: #000000;
-  font-size: 28px;
-  font-family: Georgia;
+.topicosA {
   display: flex;
-  margin-top: 10%;
+  margin-top: -19.75%;
+  margin-left: 7%;
+  width: 750px;
 }
-.AgendeB {
-  color: #000000;
-  font-size: 28px;
-  font-family: Georgia;
-  display: flex;
-  margin-top: 10%;
-}
-.Resultado {
+.EncontreA {
   color: #000000;
   font-size: 28px;
   font-family: Georgia;
@@ -520,26 +529,7 @@ span.v48_3 {
   height: 194px;
 }
 
-.ei474_222_90_43 {
-  color: rgba(0, 0, 0, 1);
-  width: 548px;
-  height: 101px;
-  font-family: Akshar;
-  font-size: 24px;
-  letter-spacing: 0;
-  top: 55%;
-  position: absolute;
-  margin-left: 40%;
-}
 
-.e310_179 {
-  font-family: Akshar;
-  color: #000;
-  font-size: 24px;
-  position: absolute;
-  margin-left: 40%;
-  top: 72%;
-}
 
 
 span.ei474_222_48_15 {

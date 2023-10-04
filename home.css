@@ -279,7 +279,7 @@ div.v90_12:hover {
   height: 53px;
   width: 50px;
   display:block;
-  margin-top: -22%;
+  margin-top: -13%;
   margin-left: 40px;
 }
 
@@ -288,21 +288,21 @@ div.v90_12:hover {
   height: 55px;
   width: 50px;
   margin-left: 40px;
-  margin-top: -17.5%;
+  margin-top: -8.5%;
 }
 
 .imgk {
   height: 50px;
   width: 50px;
   margin-left: 40px;
-  margin-top: -13%;
+  margin-top: -3.5%;
 }
 
 .imgl {
   height: 50px;
   width: 50px;
   margin-left: 40px;
-  margin-top: -9%;
+  margin-top: 1.5%;
 }
 
 .imgq {
@@ -398,7 +398,7 @@ span.texto1 {
   font-weight: Regular;
   font-size: 64px;
   opacity: 1;
-  margin-top: 8%;
+  margin-top: 5%;
   margin-left: 5%;
 }
 
@@ -416,8 +416,8 @@ span.texto2 {
 
 .topicos {
   display:block;
-  margin-top: -29.75%;
-  margin-left: 7%;
+  margin-top: -16.5%;
+  margin-left: 5.2%;
   width: 750px;
 }
 .Encontre {
@@ -427,10 +427,17 @@ span.texto2 {
   display:block;
   margin-top: 0%;
 }
+.AgendeA {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  display:block;
+  margin-top: 7.5%;
+}
 .topicosA {
   display:block;
-  margin-top: -19.75%;
-  margin-left: 7%;
+  margin-top: -10.75%;
+  margin-left: 5.2%;
   width: 750px;
 }
 .EncontreA {
@@ -439,6 +446,13 @@ span.texto2 {
   font-family: Georgia;
   display:block;
   margin-top: 10%;
+}
+.resultado {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  display:block;
+  margin-top: 7.5%;
 }
 
 span.v48_3 {
@@ -503,6 +517,7 @@ div.i474_222_48_15 {
   width: 100%;
   height: 250px;
   display:block;
+  margin-top: 6%;
 }
 
 .informacoes {

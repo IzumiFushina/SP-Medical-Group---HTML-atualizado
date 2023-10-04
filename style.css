@@ -41,8 +41,8 @@ body{
     top: 72px;
     padding: 1px;
     border-bottom: 2px solid rgba(0, 0, 0, 0.534) ;
-    display: flex;
-    flex-direction: row;
+    display: block;
+    block-direction: row;
 }
 .casinha{
     width: 45px;
@@ -70,14 +70,14 @@ body{
     font-size: 25px;
 }
 .img {
-    display: flex;
+    display: block;
     margin-top: -17%;
     margin-left: 50%;
 }
 .botao {
     margin-top: -5%;
     margin-left: 4%;
-    display: flex;
+    display: block;
     width: 235px;
     height: 50px;
     font-size: 25px;

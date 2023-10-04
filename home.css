@@ -67,7 +67,7 @@ div.v48_30:hover {
   background-color: rgba(0, 107, 169, 0.458);
 }
 .v48_26 {
-  display: flex;
+  display: block;
   width: 136px;
   color: rgba(0, 0, 0, 1);
   font-family: Akshar;
@@ -79,7 +79,7 @@ div.v48_30:hover {
   margin-left: 20.75%;
 }
 .imge {
-  display: flex;
+  display: block;
   height: 70px;
   width: 80px;
   margin-left: 11%;
@@ -107,7 +107,7 @@ div.v48_35:hover {
 .v48_28 {
   margin-top: -10%;
   margin-left: 10.5%;
-  display: flex;
+  display: block;
   align-items: center;
   width: 154px;
   color: rgba(0, 0, 0, 1);
@@ -119,7 +119,7 @@ div.v48_35:hover {
   opacity: 1;
 }
 .imgf {
-  display: flex;
+  display:block;
   margin-left: 20%;
   height: 70px;
   width: 80px;
@@ -149,7 +149,7 @@ div.v48_34:hover {
 .v48_29 {
   width: 155px;
   color: rgba(0, 0, 0, 1);
-  display: flex;
+  display:block;
   margin-top: 2%;
   margin-left: 8.5%;
   left: 1px;
@@ -159,7 +159,7 @@ div.v48_34:hover {
   opacity: 1;
 }
 .onco {
-  display: flex;
+  display:block;
   height: 70px;
   width: 80px;
   margin-left: 22.5%;
@@ -185,7 +185,7 @@ div.v90_10:hover {
   background-color: rgba(0, 107, 169, 0.458);
 }
 .v90_13 {
-  display: flex;
+  display:block;
   margin-top: 2%;
   margin-left: 9%;
   width: 155px;
@@ -198,7 +198,7 @@ div.v90_10:hover {
   opacity: 1;
 }
 .imgg {
-  display: flex;
+  display:block;
   height: 70px;
   width: 80px;
   margin-top: -18%;
@@ -222,7 +222,7 @@ div.v90_11:hover {
 .v90_14 {
   width: 175px;
   color: rgba(0, 0, 0, 1);
-  display: flex;
+  display:block;
   margin-top: 2%;
   margin-left: 2.75%;
   font-family: Akshar;
@@ -231,7 +231,7 @@ div.v90_11:hover {
   opacity: 1;
 }
 .imgh {
-  display: flex;
+  display:block;
   height: 70px;
   width: 80px;
   margin-top: -16%;
@@ -259,7 +259,7 @@ div.v90_12:hover {
 .v90_15 {
   width: 181px;
   color: rgba(0, 0, 0, 1);
-  display: flex;
+  display:block;
   font-family: Akshar;
   font-weight: Regular;
   font-size: 32px;
@@ -268,7 +268,7 @@ div.v90_12:hover {
   margin-top: 2%;
 }
 .coracao {
-  display: flex;
+  display:block;
   margin-top: -16%;
   margin-left: 26%;
   height: 70px;
@@ -278,7 +278,7 @@ div.v90_12:hover {
 .imgi {
   height: 53px;
   width: 50px;
-  display: flex;
+  display:block;
   margin-top: -22%;
   margin-left: 40px;
 }
@@ -311,7 +311,7 @@ div.v90_12:hover {
 }
 
 .imgm {
-  display: flex;
+  display:block;
   width: 112.5px;
   height: 112.5px;
   margin-top: -20%;
@@ -320,7 +320,7 @@ div.v90_12:hover {
 }
 
 .imgn {
-  display: flex;
+  display:block;
   width: 112.5px;
   height: 112.5px;
   margin-top: -10%;
@@ -328,7 +328,7 @@ div.v90_12:hover {
 }
 
 .imgo {
-  display: flex;
+  display:block;
   height: 30px;
   width: 30px;
   margin-top: -95px;
@@ -336,7 +336,7 @@ div.v90_12:hover {
 }
 
 .imgp {
-  display: flex;
+  display:block;
   height: 30px;
   width: 30px;
   margin-top: -300px;
@@ -346,7 +346,7 @@ div.v90_12:hover {
   font-family: Akshar;
   color: #000;
   font-size: 24px;
-  display: flex;
+  display:block;
   margin-left:52.5%;
   margin-top: 20px;
 }
@@ -357,7 +357,7 @@ div.v90_12:hover {
   font-family: Akshar;
   font-size: 24px;
   letter-spacing: 0;
-  display: flex;
+  display:block;
   margin-left: 52.5%;
   margin-top: 3%;
 }
@@ -391,7 +391,7 @@ span.login {
 }
 
 span.texto1 {
-  display: flex;
+  display:block;
   width: 328px;
   color: black;
   font-family: Akshar;
@@ -403,7 +403,7 @@ span.texto1 {
 }
 
 span.texto2 {
-  display: flex;
+  display:block;
   width: 341px;
   color: rgba(0, 0, 0, 1);
   font-family: Akshar;
@@ -415,7 +415,7 @@ span.texto2 {
 }
 
 .topicos {
-  display: flex;
+  display:block;
   margin-top: -29.75%;
   margin-left: 7%;
   width: 750px;
@@ -424,11 +424,11 @@ span.texto2 {
   color: #000000;
   font-size: 28px;
   font-family: Georgia;
-  display: flex;
+  display:block;
   margin-top: 0%;
 }
 .topicosA {
-  display: flex;
+  display:block;
   margin-top: -19.75%;
   margin-left: 7%;
   width: 750px;
@@ -437,7 +437,7 @@ span.texto2 {
   color: #000000;
   font-size: 28px;
   font-family: Georgia;
-  display: flex;
+  display:block;
   margin-top: 10%;
 }
 
@@ -502,11 +502,11 @@ div.i474_222_48_15 {
   background-color: rgb(157, 208, 238);
   width: 100%;
   height: 250px;
-  display: flex;
+  display:block;
 }
 
 .informacoes {
-  display: flex;
+  display:block;
   font-family: Akshar;
   color: black;
   font-size: 25px;
@@ -514,7 +514,7 @@ div.i474_222_48_15 {
   margin-left: -51%;
 }
 .imga {
-  display: flex;
+  display:block;
   width: 50px;
   height: 50px;
   margin-left: 2%;
@@ -522,7 +522,7 @@ div.i474_222_48_15 {
 
 }
 .informacoesC{
-  display: flex;
+  display:block;
   font-family: Akshar;
   color: black;
   font-size: 25px;
@@ -530,14 +530,14 @@ div.i474_222_48_15 {
   margin-left: -75%;
 }
 .imgb {
-  display: flex;
+  display:block;
   width: 50px;
   height: 50px;
   margin-top: 10%;
   margin-left: -3.2%;
 }
 .informacoesA {
-  display: flex;
+  display:block;
   font-family: Akshar;
   color: black;
   font-size: 25px;
@@ -545,14 +545,14 @@ div.i474_222_48_15 {
   margin-left: 16%;
 }
 .imgc {
-  display: flex;
+  display:block;
   width: 60px;
   height: 40px;
   margin-top: 1.25%;
   margin-left: 20%;
 }
 .informacoesB {
-  display: flex;
+  display:block;
   font-family: Akshar;
   color: black;
   font-size: 25px;
@@ -560,7 +560,7 @@ div.i474_222_48_15 {
   margin-left: 10%;
 }
 .imgd {
-  display: flex;
+  display:block;
   width: 65px;
   height: 85px;
   margin-top: 5%;
